@@ -14,8 +14,8 @@ let Nav = React.createClass({
               <li><Link to='/'>Countdown</Link></li>
             </ul>
           </div>
-          <div class="top-bar-right">
-            <ul class="menu">
+          <div className="top-bar-right">
+            <ul className="menu">
               <li><span>Created By</span></li>
               <li><a href='#'>Mohammad Maleh</a></li>
             </ul>
